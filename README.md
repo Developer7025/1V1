@@ -1,5 +1,5 @@
-# 1V1
-1v1 is a lightweight offline fighting game for Windows PC, built in Unity. It's a local multiplayer game where two players face off in a fast-paced, minimalist duel. With just a single attack move and jump-to-dodge mechanic, the game focuses on pure skill, timing, and reflexes.
+#  Dual Arena
+ Dual Arena is a lightweight offline fighting game for Windows PC, built in Unity. It's a local multiplayer game where two players face off in a fast-paced, minimalist duel. With just a single attack move and jump-to-dodge mechanic, the game focuses on pure skill, timing, and reflexes.
 
 🎮 Features
 🥊 1v1 Local Multiplayer – No bots, just you vs. another player.
